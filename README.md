@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: BI12-489 
-* Student ID: Nguyen Dinh Viet Vinh
+* Student Name: Nguyen Dinh Viet Vinh 
+* Student ID: BI12-489
